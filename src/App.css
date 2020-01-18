@@ -3,10 +3,9 @@
 
 }
 body {
-  background: rgb(218, 218, 218);   
-
-    
-}
+  /* background: rgb(218, 218, 218);    */
+  /* background-image: linear-gradient(to right, #434343 0%, black 100%); */
+  background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);}
 #search-container{
   margin: 20px auto;
 }
